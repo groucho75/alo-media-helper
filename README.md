@@ -12,3 +12,5 @@ After activation, you can visit **Settings -> ALO Media Helper Sample** in your 
 4. Visit **Settings -> ALO Media Helper Sample** to see a live sample of helper and open the file "sample.php" to see the php code.
 5. Use `alo_mh_insert_from_media_lib` function in your plugin development, enjoy!
 
+## Note
+* In this plugin sample the javascript is loaded on every admin screen. Customize the script enqueue in `alo_mh_head_scripts`function as you need.
