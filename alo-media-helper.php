@@ -1,6 +1,7 @@
 <?php
 /*
 Plugin Name: ALO Media Helper
+Plugin URI: https://github.com/groucho75/alo-media-helper
 Description: A html helper to open image library and select an image for options. It requires WP 3.5+. You have a helper function ('<em>alo_mh_insert_from_media_lib</em>') that you can use in your plugin. After activation, you can visit "<em>Settings -> ALO Media Helper Sample</em>" in your dashboard to see a live sample (the code is in "<em>sample.php</em>" file included).
 Version: 1.0
 Author: Alessandro Massasso
