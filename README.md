@@ -10,5 +10,5 @@ After activation, you can visit **Settings -> ALO Media Helper Sample** in your 
 2. Put these files there.
 3. Activate the plugin as usual.
 4. Visit **Settings -> ALO Media Helper Sample** to see a live sample of helper and open the file "sample.php" to see the php code.
-5. Use `alo_mh_insert_from_media_lib` in your plugin development, enjoy!
+5. Use `alo_mh_insert_from_media_lib` function in your plugin development, enjoy!
 
